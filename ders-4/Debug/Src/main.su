@@ -1,0 +1,5 @@
+../Src/main.c:21:6:gpioInit	4	static
+../Src/main.c:37:5:main	8	static
+../Src/main.c:51:6:delay	24	static
+../Src/main.c:59:6:userLedOn	4	static
+../Src/main.c:64:6:userLedOff	4	static
