@@ -1,5 +1,5 @@
 
-ders-5.elf:     file format elf32-littlearm
+ders-6.elf:     file format elf32-littlearm
 
 Sections:
 Idx Name          Size      VMA       LMA       File off  Algn
